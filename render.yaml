@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: sneonam2
+    name: szincez7
     runtime: docker
     region: oregon
     plan: free
@@ -9,7 +9,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sbeta6ak
+    name: sneon9of
     runtime: docker
     region: oregon
     plan: free
@@ -18,7 +18,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sbetawqf
+    name: sdeltatb2
     runtime: docker
     region: oregon
     plan: free
@@ -27,7 +27,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sneonuye
+    name: sbetahkc
     runtime: docker
     region: oregon
     plan: free
@@ -36,7 +36,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sgamma1ab
+    name: sgammauqb
     runtime: docker
     region: oregon
     plan: free
@@ -45,7 +45,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: szinclw4
+    name: salphaifq
     runtime: docker
     region: oregon
     plan: free
@@ -54,7 +54,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: szenf9y
+    name: sgammak6v
     runtime: docker
     region: oregon
     plan: free
@@ -63,7 +63,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sgamma05e
+    name: sioceb
     runtime: docker
     region: oregon
     plan: free
@@ -72,7 +72,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sneon7j7
+    name: sgammaub8
     runtime: docker
     region: oregon
     plan: free
@@ -81,7 +81,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: szeniax
+    name: sdelta1jo
     runtime: docker
     region: oregon
     plan: free
@@ -90,7 +90,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: szenp74
+    name: sneonxe8
     runtime: docker
     region: oregon
     plan: free
@@ -99,7 +99,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sneonq8v
+    name: szincfq0
     runtime: docker
     region: oregon
     plan: free
@@ -108,7 +108,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: szenape
+    name: sbetaicd
     runtime: docker
     region: oregon
     plan: free
@@ -117,7 +117,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sgammasj0
+    name: szinc2gz
     runtime: docker
     region: oregon
     plan: free
@@ -126,7 +126,7 @@ services:
     autoDeployTrigger: 'off'
 
   - type: web
-    name: sgamma753
+    name: salphame8
     runtime: docker
     region: oregon
     plan: free
